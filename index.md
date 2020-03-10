@@ -45,7 +45,7 @@
 						<p>- Logistics Center</p>
 						<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
 
-### My Projects 
+## My Projects 
 
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorseConjointAnalysis.pdf)
 <img src="images/horse.jpg?raw=true"/>
