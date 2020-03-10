@@ -13,7 +13,6 @@
 	</div>
 	</div>
 </section>
-
 ---
 <section class="ftco-about ftco-counter img ftco-section" id="about-section">
     	<div class="container">
@@ -45,11 +44,6 @@
 						<p>* SINOPHARM GROUP CO.,LTD 
 						<p>- Logistics Center</p>
 						<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
-		              </div>
-		            </div> 
-		        	</div>
-		        	</div>
-
 
 ### My Projects 
 
