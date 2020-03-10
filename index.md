@@ -13,9 +13,9 @@
 	</div>
 	</div>
 </section>
----
-		        <div class="row">
-		        	<div class="col-md-6">
+
+<div class="row">
+		              <div class="col-md-6">
 		        		<div class="media block-6 services d-block ftco-animate">
 		              <div class="icon"><span class="flaticon-analysis"></span></div>
 		              <div class="media-body">
