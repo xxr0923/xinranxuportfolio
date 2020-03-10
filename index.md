@@ -9,7 +9,7 @@
 
 ---
 [Tableau & Visualization Design](https://public.tableau.com/profile/xinran.xu1488#!/)
-<img src="images/tableau.jpg?raw=true"/>
+<img src="images/Coronavirus.jpg?raw=true"/>
 
 ---
 [Text Classification with Airline Comments on Twitter](/pdf/AirlineComments.pdf)
