@@ -51,18 +51,6 @@
 		            </div> 
 		        	</div>
 		        	</div>
-	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
-              <div class="text p-4 pr-5 bg-primary">
-              	<p class="mb-0">
-	                <span class="number" data-number="10">0</span>
-	                <span>Finished Projects</span>
-                </p>
-              </div>
-	          </div>
-	        </div>
-        </div>
-    	</div>
-    </section>
 ---
 ### My Projects 
 
