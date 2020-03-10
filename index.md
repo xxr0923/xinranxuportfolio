@@ -13,7 +13,7 @@
 	</div>
 	</div>
 </section>
-
+---
 <section class="ftco-about ftco-counter img ftco-section" id="about-section">
     	<div class="container">
     		<div class="row d-flex">
