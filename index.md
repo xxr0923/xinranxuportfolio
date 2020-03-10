@@ -4,7 +4,7 @@
 
 ### My Projects 
 
-[ToyHorse Case - Conjoint Analysis](/sample_page)
+[ToyHorse Case - Conjoint Analysis](/pdf/ToyHorse Conjoint Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
