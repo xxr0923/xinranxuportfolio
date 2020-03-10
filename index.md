@@ -13,6 +13,7 @@
 	</div>
 	</div>
 </section>
+
 ---				     
 ## My Projects 
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorseConjointAnalysis.pdf)
