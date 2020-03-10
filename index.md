@@ -27,7 +27,6 @@
 				<p>* SINOPHARM GROUP CO.,LTD 
 				<p>- Logistics Center</p>
 				<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
-</section>
 
 ---				     
 ## My Projects 
