@@ -20,13 +20,13 @@
 		              <div class="icon"><span class="flaticon-analysis"></span></div>
 		              <div class="media-body">
 		                <h3 class="heading mb-3">Work Experience</h3>
-						<p>* SEA-AIR LOGISTICS LIMITED</p>
-						<p>- IT Department</p>
-						<p>Created in-house price and demand forecast tool to improve accuracy and reduce costs.</p>
-						<p>* SINOPHARM GROUP CO.,LTD 
-						<p>- Logistics Center</p>
-						<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
-
+				<p>* SEA-AIR LOGISTICS LIMITED</p>
+				<p>- IT Department</p>
+				<p>Created in-house price and demand forecast tool to improve accuracy and reduce costs.</p>
+				<p>* SINOPHARM GROUP CO.,LTD 
+				<p>- Logistics Center</p>
+				<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
+</section>
 
 ---				     
 ## My Projects 
