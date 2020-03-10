@@ -13,6 +13,8 @@
 	</div>
 	</div>
 </section>
+---
+---
 <section>
 <div class="row">
 		              <div class="col-md-6">
@@ -42,4 +44,4 @@
 [Text Classification with Airline Comments on Twitter](/pdf/AirlineComments.pdf)
 <img src="images/airline.jpg?raw=true"/>
 
-
+---
