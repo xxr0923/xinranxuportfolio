@@ -26,8 +26,6 @@
     			</div>
     			<div class="col-md-6 col-lg-7 pl-lg-5 py-5">
     				<div class="row justify-content-start pb-3">
-		          <div class="col-md-12 heading-section ftco-animate">
-		          	<span class="subheading">Welcome</span>
 		            <h2 class="mb-4" style="font-size: 34px; text-transform: capitalize;">About Me</h2>
 					<p>- Diversified business skills involve computer software, programming languages, MS Office, logistics management, data analysis, etc. </p>
 					<p>- Good at data collection and strong cost management awareness. </p>
@@ -52,6 +50,7 @@
 		        	</div>
 		        	</div>
 ---
+
 ### My Projects 
 
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorseConjointAnalysis.pdf)
