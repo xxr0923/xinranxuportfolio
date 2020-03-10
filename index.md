@@ -16,12 +16,10 @@
 <img src="images/airline.jpg?raw=true"/>
 
 ---
-### My Skillsets
    <section class="ftco-section bg-light" id="skills-section">
 			<div class="container">
 				<div class="row justify-content-center pb-5">
           <div class="col-md-12 heading-section text-center ftco-animate">
-          	<span class="subheading">Skills</span>
             <h2 class="mb-4">My Skills</h2>
           </div>
         </div>
