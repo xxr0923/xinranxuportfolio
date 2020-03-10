@@ -1,9 +1,15 @@
 title: John Doe # your name (or website title) here
 logo: "/images/Photo.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>A Business Analyst from Simon Business School<br>
-  Second description 
+  A Business Analyst from Simon Business School
+  <br><br>
+  - Diversified business skills involve computer software, programming languages, MS Office, logistics management, data analysis, etc.
+
+  - Good at data collection and strong cost management awareness.
+
+  - Proficient in MS Office software, SQL, R language, and BI Tool - Tableau.
+
+  - Optimistic, Teamwork, Passion with data
   <br><br>
   <a href="https://www.linkedin.com/in/xinranxu1/">View My LinkedIn Profile</a> 
   
