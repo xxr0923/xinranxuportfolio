@@ -13,7 +13,7 @@
 	</div>
 	</div>
 </section>
-
+<section>
 <div class="row">
 		              <div class="col-md-6">
 		        		<div class="media block-6 services d-block ftco-animate">
@@ -26,6 +26,7 @@
 						<p>* SINOPHARM GROUP CO.,LTD 
 						<p>- Logistics Center</p>
 						<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
+				      </section>
 ---
 				     
 ## My Projects 
