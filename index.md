@@ -28,7 +28,7 @@
 						<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
 				      </section>
 
-				     
+---				     
 ## My Projects 
 
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorseConjointAnalysis.pdf)
@@ -41,5 +41,5 @@
 ---
 [Text Classification with Airline Comments on Twitter](/pdf/AirlineComments.pdf)
 <img src="images/airline.jpg?raw=true"/>
-
+---
 
