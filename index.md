@@ -5,7 +5,7 @@
 ### My Projects 
 
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorse Conjoint Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/horse.jpg?raw=true"/>
 
 ---
 [Tableau & Visualization Design](/pdf/sample_presentation.pdf)
