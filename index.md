@@ -13,8 +13,7 @@
 	</div>
 	</div>
 </section>
----
----
+
 <section>
 <div class="row">
 		              <div class="col-md-6">
@@ -32,7 +31,7 @@
 
 ---				     
 ## My Projects 
-
+---
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorseConjointAnalysis.pdf)
 <img src="images/horse.jpg?raw=true"/>
 
