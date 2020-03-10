@@ -14,20 +14,6 @@
 	</div>
 </section>
 
-<section>
-<div class="row">
-		              <div class="col-md-6">
-		        		<div class="media block-6 services d-block ftco-animate">
-		              <div class="icon"><span class="flaticon-analysis"></span></div>
-		              <div class="media-body">
-		                <h3 class="heading mb-3">Work Experience</h3>
-				<p>* SEA-AIR LOGISTICS LIMITED</p>
-				<p>- IT Department</p>
-				<p>Created in-house price and demand forecast tool to improve accuracy and reduce costs.</p>
-				<p>* SINOPHARM GROUP CO.,LTD 
-				<p>- Logistics Center</p>
-				<p>Collaborated with operations team to optimize transportation flow and save costs.</p>
-
 ---				     
 ## My Projects 
 ---
