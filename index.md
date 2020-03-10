@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Text Classification with Airline Comments on Twitter](http://example.com/)
+[Text Classification with Airline Comments on Twitter](/pdf/AirlineComments.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
