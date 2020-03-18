@@ -15,6 +15,11 @@
 </section>
 
 ---
+## My Resume
+[Resume - Click Here!](/pdf/Xinran_Xu Resume.pdf)
+<img scr='images/resume.jpg?raw=true"/>
+
+---
 ## My Projects 
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorseConjointAnalysis.pdf)
 <img src="images/horse.jpg?raw=true"/>
