@@ -21,6 +21,10 @@
 
 ---
 ## My Projects 
+[Seneca Park Zoo Project - ArcGIS](/pdf/Seneca Park Zoo.pdf)
+<img src="images/tree.JPG?raw=true"/>
+
+---
 [ToyHorse Case - Conjoint Analysis](/pdf/ToyHorseConjointAnalysis.pdf)
 <img src="images/horse.jpg?raw=true"/>
 
