@@ -21,7 +21,7 @@
 
 ---
 ## My Projects 
-[Seneca Park Zoo Project - ArcGIS](/pdf/Seneca Park Zoo.pdf)
+[Seneca Park Zoo Project - ArcGIS](/pdf/Seneca Park Zoo Project.pdf)
 <img src="images/tree.JPG?raw=true"/>
 
 ---
